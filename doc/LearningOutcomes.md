@@ -219,7 +219,8 @@ Note the `test/seedu/addressbook/parser/ParserTest.java` class that users Junit 
 
 * First, make sure you know how to run JUnit tests by running the `ParserTest.java`. 
   Instructions are in the [Developer Guide](DeveloperGuide.md#junit-tests).
-* Add a `test/seedu/addressbook/common/UtilsTest.java` containing JUnit tests for the `Utils` class.
+* Complete the missing code in the `test/seedu/addressbook/common/UtilsTest.java` containing JUnit tests for the 
+  `Utils` class.
 
 ------------------------------------------------------------------------------------------------------
 
